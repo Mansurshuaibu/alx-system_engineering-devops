@@ -1,1 +1,1 @@
-Without C, you would live in hiago
+write a script with reverse input
