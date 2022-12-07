@@ -1,1 +1,1 @@
-script that counts the number of directories in the PATH
+script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
